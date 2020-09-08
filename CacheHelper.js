@@ -1,4 +1,5 @@
 import {AsyncStorage, DeviceEventEmitter} from "react-native";
+import AsyncStorage from '@react-native-community/async-storage'; 
 import CryptoJS from 'crypto-js'
 import RNFetchBlob from 'rn-fetch-blob'
 
